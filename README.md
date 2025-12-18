@@ -188,12 +188,12 @@ output/
 
 - information: Documents all GA parameters and processing settings
 
-matrixBest: Final enhanced image in tab-separated format (for analysis)
+- matrixBest: Final enhanced image in tab-separated format (for analysis)
 
-terms: Detailed breakdown of fitness function components
+- terms: Detailed breakdown of fitness function components
 
-threshold: Optimal threshold evolution across generations
+- threshold: Optimal threshold evolution across generations
 
-fitness_analysis.png: Visual plot of fitness improvement over time
+- fitness_analysis.png: Visual plot of fitness improvement over time
 
 ```
